@@ -1,0 +1,34 @@
+Button {
+  width: 90%;
+  margin: 4px !important;
+}
+
+input[type="text"] {
+  margin-top: 3px;
+  width: 96%;
+  margin-left: 6px;
+  border-radius: 50px;
+}
+
+.calculator_body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ededf0;
+}
+
+.calculator-jumbotron {
+  -webkit-border-radius: 50px;
+  border-radius: 25px;
+  background: #e2e2ff7e;
+  -webkit-box-shadow: 5px 5px 3px #474748, -5px -5px 3px #ffffff;
+box-shadow: 5px 5px 3px #474748, -5px -5px 3px #ffffff;
+}
+
+footer {
+    margin-top: 10px;
+    font-size: 12px;
+    font-family: cursive;
+}
